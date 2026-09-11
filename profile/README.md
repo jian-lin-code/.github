@@ -1,5 +1,7 @@
 ![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=jian-lin-code&theme=dark&accent=jian-lin-code)
-# 👋 Hi，欢迎来到 jian-lin-code
+![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=jian-lin-code&theme=dark&accent=jian-lin-code)
+
+
 > AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能Agent落地实践
 
 ## 🧑‍💻 关于我

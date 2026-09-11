@@ -1,5 +1,5 @@
 ![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=jian-lin-code&theme=dark&accent=jian-lin-code)
-![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=jian-lin-code&theme=dark&accent=jian-lin-code)
+![Netflix](https://coolreadme.xyz/api/netflix-card?title=The%20Obsidian%20Protocol&style=hero&user=jian-lin-code&synopsis=In%20a%20world%20where%20memories%20are%20traded%20like%20currency%2C%20a%20rogue%20data-broker%20discovers%20an%20encrypted%20file%20that%20could%20collapse%20the%20global%20neural%20network.&cast=Winona%20Ryder%2C%20David%20Harbour&genre=Sci-Fi%2C%20Thriller&rating=TV-MA&match=98&year=2025&season=S1&episode=E4%3A%20The%20Glitch&duration=48%3A00&progress=52&progressTime=24%3A15&quality=4K)
 
 
 > AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能Agent落地实践

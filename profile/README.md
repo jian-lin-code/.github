@@ -2,7 +2,7 @@
 
 
 
-> AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能Agent落地实践
+###AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能Agent落地实践
 
 ## 🧑‍💻 关于我
 深耕大模型应用层开发，主要做RAG检索增强、多工具AI Agent、文档解析、向量检索系统开发。
@@ -35,13 +35,6 @@
 | 项目 | 简介 |
 | ---- | ---- |
 
-
-## 📊 技能雷达图（GitHub Markdown可渲染）
-```mermaid
-radar
-    title 技能雷达
-    direction clockwise
-    axis "LangChain" "向量数据库" "文档解析" "Python后端" "Docker" "LLM提示工程"
-    "能力" [90, 85, 80, 85, 75, 82]
+![Hacker](https://coolreadme.xyz/api/hacker?user=jian-lin-code&status=SHIPPING%20CODE&accent=jian-lin-code)
 
 - 邮箱：2367884500@qq.com

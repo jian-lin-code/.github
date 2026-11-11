@@ -25,9 +25,13 @@ AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能
 - Word：Docx2txtLoader / python-docx
 - 通用切块：RecursiveCharacterTextSplitter
 
-## 📂 项目仓库
-| 项目 | 简介 |
-| ---- | ---- |
+## 📂 核心项目
+
+| 项目名称 | 核心技术栈 | 项目简介 | 状态/热度 |
+| :--- | :--- | :--- | :--- |
+| **[AgentFlow](https://github.com/jian-lin-code/agent-flow)** | `Python` `LangChain` `FastAPI` <br> `PGVector` | 一个基于大模型的智能体（Agent）全栈应用：用户用自然语言完成企业报销办理、业务数据查询与知识库问答。本目录是后端服务，负责 FastAPI 接口、LangGraph 工作流编排、RAG 检索、异步任务与数据持久化。 | [![Stars](https://img.shields.io/github/stars/jian-lin-code/agent-flow?style=social)](https://github.com/jian-lin-code/agent-flow) |
+
+*(注：把上面的 `agent-flow` 和 `agent-flow-admin` 换成你实际推上去的仓库名即可)*
 
 ![Hacker](https://coolreadme.xyz/api/hacker?user=jian-lin-code&status=SHIPPING%20CODE&accent=jian-lin-code)
 

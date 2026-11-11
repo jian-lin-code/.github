@@ -30,7 +30,7 @@ AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能
 | 项目名称 | 核心技术栈 | 项目简介 | 状态/热度 |
 | :--- | :--- | :--- | :--- |
 | **[AgentFlow](https://github.com/jian-lin-code/agent-flow)** | `Python` `LangChain` `FastAPI` <br> `PGVector` | 一个基于大模型的智能体（Agent）全栈应用：用户用自然语言完成企业报销办理、业务数据查询与知识库问答。本目录是后端服务，负责 FastAPI 接口、LangGraph 工作流编排、RAG 检索、异步任务与数据持久化。 | [![Stars](https://img.shields.io/github/stars/jian-lin-code/agent-flow?style=social)](https://github.com/jian-lin-code/agent-flow) |
-| **[shopkeeper-wisdom](https://github.com/jian-lin-code/shopkeeper-wisdom)** | `Python` `LangChain` `FastAPI` <br> `Milvus` | 一个基于大模型的智能体（Agent）全栈应用：用户用自然语言完成企业报销办理、业务数据查询与知识库问答。本目录是后端服务，负责 FastAPI 接口、LangGraph 工作流编排、RAG 检索、异步任务与数据持久化。 | [![Stars](https://img.shields.io/github/stars/jian-lin-code/agent-flow?style=social)](https://github.com/jian-lin-code/agent-flow) |
+| **[shopkeeper-wisdom](https://github.com/jian-lin-code/shopkeeper-wisdom)** | `Python` `LangChain` `FastAPI` <br> `Milvus` | 一个把 PDF/Markdown 手册解析成图文切片、用稠密 + 稀疏混合向量检索，配合 HyDE 改写召回与联网补充，经 RRF 融合和重排动态截断后，把最相关片段喂给大模型生成有出处、带配图答案的增强检索（RAG）系统。 | [![Stars](https://img.shields.io/github/stars/jian-lin-code/agent-flow?style=social)](https://github.com/jian-lin-code/shopkeeper-wisdom) |
 *(注：把上面的 `agent-flow` 和 `agent-flow-admin` 换成你实际推上去的仓库名即可)*
 
 ![Hacker](https://coolreadme.xyz/api/hacker?user=jian-lin-code&status=SHIPPING%20CODE&accent=jian-lin-code)

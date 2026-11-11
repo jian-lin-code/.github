@@ -25,12 +25,6 @@ AI应用开发 / RAG & Agent 方向后端开发，专注企业知识库、智能
 - Word：Docx2txtLoader / python-docx
 - 通用切块：RecursiveCharacterTextSplitter
 
-### ✅ 后端 & 工程化
-- Python、FastAPI、pydantic
-- Docker / Docker Compose，容器化部署
-- Git、Linux基础命令
-- 数据库：MySQL，Redis（缓存+向量）
-
 ## 📂 项目仓库
 | 项目 | 简介 |
 | ---- | ---- |
